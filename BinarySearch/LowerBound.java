@@ -12,7 +12,7 @@ class Solution{
                 pos = mid;
                 high=mid -1;
             }
-            else if(arr[mid]<x){
+            else {
                 low=mid+1;
             }
         }
