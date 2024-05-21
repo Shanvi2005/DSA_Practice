@@ -1,1 +1,1 @@
-# StriverA2Zsheet
+# DSA practice
